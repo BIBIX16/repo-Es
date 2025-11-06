@@ -1,0 +1,16 @@
+{
+  "name": "BilalYT Repo",
+  "author": "Bilal Darghal",
+  "description": "Repositorio con proveedor YouTube para Cloud Stream",
+  "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_2024_icon.svg",
+  "providers": [
+    {
+      "name": "YouTube",
+      "api": "yt",
+      "url": "https://www.youtube.com",
+      "languages": ["es", "en"],
+      "type": "movie",
+      "nsfw": false
+    }
+  ]
+}
