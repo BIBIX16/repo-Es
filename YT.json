@@ -7,10 +7,11 @@
     {
       "name": "Vidsrc",
       "api": "vidsrc",
-      "url": "https://vidsrc.to",
+      "url": "https://pelisflix20.autos/",
       "languages": ["es", "en"],
       "type": "movie",
       "nsfw": false
     }
   ]
 }
+
