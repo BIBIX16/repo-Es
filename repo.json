@@ -1,0 +1,16 @@
+{
+  "name": "Bilal Repo",
+  "author": "Bilal Darghal",
+  "description": "Repositorio funcional de prueba para Cloud Stream",
+  "icon": "https://raw.githubusercontent.com/recloudstream/cloudstream/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+  "providers": [
+    {
+      "name": "Vidsrc",
+      "api": "vidsrc",
+      "url": "https://vidsrc.to",
+      "languages": ["es", "en"],
+      "type": "movie",
+      "nsfw": false
+    }
+  ]
+}
